@@ -5,8 +5,12 @@
 The "YouTube and Spotify Data Analysis" project is an exploration of user behavior and trends on two of the most popular streaming platforms: YouTube and Spotify. By leveraging data from these platforms, this analysis aims to uncover valuable insights into user preferences, content trends, and engagement patterns.
 
 # 👥 Team Members 
+ 
+  * JAWWAD ALI
+  * MOHAMMAD GHANI FARIDI
+  * KHAN AURANGZEB 
 
-# Technologies Used
+# 🧑‍💻Technologies Used
 
   * Python: Python was used for data preprocessing, analysis, and visualization. Libraries such as Pandas, NumPy, and Matplotlib were utilized for these tasks.
 
@@ -20,7 +24,7 @@ The "YouTube and Spotify Data Analysis" project is an exploration of user behavi
 
     
 
-# Project Highlights
+# 📌Project Highlights
 
  * Data Preparation: Describe any significant data preprocessing steps, such as data cleaning, transformation, or feature engineering.
  
@@ -30,7 +34,7 @@ The "YouTube and Spotify Data Analysis" project is an exploration of user behavi
 
  * Insights: Summarize the key insights or findings derived from the analysis.
 
-# Folder Structure
+# 🗂️Folder Structure
 
  * DataBase : This folder contain the Youtube and Spotify Data.
 
@@ -45,7 +49,7 @@ The "YouTube and Spotify Data Analysis" project is an exploration of user behavi
  * Cleaned DataBase : This folder contains the cleaned data which we use for this Performing SQL Work.
 
 
-# SQL WORKS (Some of Sql Queries) --
+# 🛠️SQL WORKS (Some of Sql Queries) --
 
   1. list of unique Artist list 
   
@@ -138,7 +142,7 @@ as 'Average Time Duration'
 from Spotify_Youtube```
 
 
-# Creating Visualizations
+# 📊Creating Visualizations
 
 # Tableau DashBoard :
   
